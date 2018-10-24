@@ -5,7 +5,9 @@
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "@emotion/core": "10.0.0-beta.5 - latest",
+    "@emotion/styled": "10.0.0-beta.5 - latest"
   },
   "scripts": {
     "start": "react-scripts start",
